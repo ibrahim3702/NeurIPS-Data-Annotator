@@ -5,7 +5,7 @@
 [![Python Version: 3.12+ - Modern & Optimized](https://img.shields.io/badge/Python-3.12+-yellow.svg)](https://www.python.org/)
 
 <p align="center">
-  <img src="[Link to Project Logo/Banner Image Here - Placeholder]" alt="NeurIPS Paper Sorter Logo" width="300">
+  <img src="https://github.com/ibrahim3702/NeurIPS-Data-Annotator/blob/main/images.png" alt="NeurIPS Paper Sorter Logo" width="300">
 </p>
 
 **Organize your research library like never before!** 🚀 This Python tool, powered by Google Gemini AI, intelligently categorizes PDF research papers from NeurIPS and beyond, transforming your chaotic PDF collection into a structured, searchable knowledge base. 📚
